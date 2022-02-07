@@ -8,4 +8,4 @@ FILES:
 - grades.json file containg a grade for each commit
 - GUIDE.pdf file provide an overview of the the project
 
-In addition, in the folder I load files related  explanation of some implementation in Python which I did during the software_engineering_Project Course at NTNU
+In addition, in the folder I load files related  explanation of some implementation in Python which I did during the Software Engineering Project Course at NTNU
